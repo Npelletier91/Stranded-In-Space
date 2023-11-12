@@ -1,0 +1,377 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EF367A301ED548A2F672E34793C04D26A4DD4157",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05D8C3F7341341491F24487C66EA53B834597C1B",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "49ADEE1A86AC8068BC21C28E02975360D896112F",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3DA78484810353FE09BAF3FB3FAC6053C7CF0203",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "6E6BF47A6CA6DFC654BC31815B570A93F77FD340",
+			"Assets": [
+				"/Game/Hour_of_Code/Materials/M_MASTER_OPAQUE"
+			]
+		},
+		{
+			"ShaderMapHash": "0070647974632A7799DCF1C9582B4508E7F09F31",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "8489A98BFF4D6176948F6BF2D308A9020C228F12",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AE5BFAE45F59E6E1F4AFD96BF9648560A0F84254",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "6CD7FFC6FD76C51194FF61D97F943CCD709DCD96",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C2A360CCA1FD1D4513907717FEE6C5129417AEF4",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "2282311AFA0B1EF5A9CF8CFE52CAF5479F90B845",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "07443FFB5285188474FC2A9150BC39E176F08649",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "692C358A572CC43231CB2D94CD6C45BFD6B43DE0",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F6A990E9C7BE47FB6D0A0BAA9CA69A79C37CDE8A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2FD4DE544CE2D95D8F9ED084A9492B6D40FAE76E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D9788069B96A76CBBE007B8331BB5D3536C776C",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "603966A246CC85692FE767474042FAA89B4FF8D1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "189B167F37C29226FC85DC5021C6D46A2B037051",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/M_EpicCharacter_Optimized"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "40457882C28AAF598ECAC5843D7C2C6BB4E98DA1",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "71EF58402BC18CA59AAE9905C6EADD20E7FB187A",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A04DF2B3BC1004EC585FC643C39B643F8C892FEA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D55FB6914E15B1A41376814A19E43417EC5ED743",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "867E19FABA0BD62FE37EC91EE1539A9197B6483E",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/Material_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "755F156CAC7AF22C864F3EAB6E07A6455CF7DF3D",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Misc/MI_Grass_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "550B26622861225726AD27795002FE62B60B8131",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_LearningKit_MasterMaterial",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_WoodA"
+			]
+		},
+		{
+			"ShaderMapHash": "C1B6AF9116A3F84AA64D2548C66A998B1DC294AA",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_LearningKit_Foliage_Master",
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Grass_BaseInstance"
+			]
+		},
+		{
+			"ShaderMapHash": "19586117DCBD1FABE6AEB4039558BF3048F4CECD",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "14EF4DCC2D1AED25223CF8760A292FF3A70564AD",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance"
+			]
+		},
+		{
+			"ShaderMapHash": "153D3CD92D297DF620EC1E85100C76910A19B8F6",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Emissive_BaseInstance"
+			]
+		},
+		{
+			"ShaderMapHash": "C336A8664F2F067BD689F00D91F6C7B06C97994D",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Emissives/MI_EmissiveA"
+			]
+		},
+		{
+			"ShaderMapHash": "4DDCEEC469FFA0849D3CAC95E8EE9C6333A00A62",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Props/Buttons/Button_A/Material/MI_Button_A",
+				"/Game/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Powerup_A"
+			]
+		},
+		{
+			"ShaderMapHash": "A020C733C5733B81932A3FEB7E44D090D6229044",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Environment/Clouds/Material/MI_Cloud_01",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Backpack",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_BedRoll",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Skin",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_SleevesShorts"
+			]
+		},
+		{
+			"ShaderMapHash": "B42A76C5E891466CE5A9F118A9BEB9D5C9826D46",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Architecture/Gates/Material/MI_Forcefield"
+			]
+		},
+		{
+			"ShaderMapHash": "BC1C4DC65247C33284D20B37365727A3D913039E",
+			"Assets": [
+				"/Game/Hour_of_Code/Materials/MI_gem"
+			]
+		},
+		{
+			"ShaderMapHash": "22220392B51E8FD5577156CA885CA6D81208A1ED",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Tunic",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Head",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "D83BB0CC9B939DC685C94E9E84592B1BA8D43E72",
+			"Assets": [
+				"/Game/Hour_of_Code/Maps/Lava_World"
+			]
+		}
+	]
+}
