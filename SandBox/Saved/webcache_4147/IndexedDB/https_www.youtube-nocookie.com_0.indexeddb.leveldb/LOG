@@ -1,0 +1,5 @@
+2023/11/13-18:21:23.315 55e8 Reusing MANIFEST C:/Users/Nicol/Documents/GitHub Repos/UE5/SandBox/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/13-21:21:06.432 809c Level-0 table #5: started
+2023/11/13-21:21:06.434 809c Level-0 table #5: 1211 bytes OK
+2023/11/13-21:21:06.438 809c Delete type=0 #3
+2023/11/13-21:21:06.438 809c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
