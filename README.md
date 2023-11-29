@@ -1,6 +1,6 @@
 # Stranded in Space
 
-Stranded in Space is an immersive 3D open-world game developed in Unreal Engine, where players find themselves marooned on an unknown planet after a crash landing. The objective is to collect scattered pieces of the ship across the hazardous environment to return home while managing oxygen and health levels to survive.
+Stranded in Space is an immersive 3D open-world game developed in Unreal Engine, where players find themselves stranded on an unknown planet after a crash landing. The objective is to collect scattered pieces of the ship across the hazardous environment to return home while managing oxygen and health levels to survive.
 
 <img width="450"  src="https://github.com/Npelletier91/Stranded-In-Space/assets/129113700/8b3f4fdb-a2b3-4762-926c-d66154a14671">
 
